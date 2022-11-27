@@ -1,0 +1,7 @@
+CYCLE -2
+
+    1. Study of Assembler and Debugging commands
+    2. WALP to check whether the given string is palindrome or not
+    3. WALP to count the number of vowels in a string
+    4. WALP to replace a sub-string of a string with another string
+    5. WALP  to arrange a set of  numbers in ascending order using bubble sort
